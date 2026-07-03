@@ -1,0 +1,4 @@
+This feature was developed in the feature branch.
+
+Feature:
+- Added a sample feature for Git workflow demonstration.
