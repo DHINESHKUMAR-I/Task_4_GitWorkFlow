@@ -7,9 +7,23 @@ Manage a DevOps project using Git best practices.
 - Git
 - GitHub
 
-## Project Structure
+## Git Workflow
+- Initialized Git repository
+- Created main, dev, and feature branches
+- Worked in feature branch
+- Created Pull Requests
+- Merged feature → dev
+- Merged dev → main
+- Created Git Tag (v1.0)
+
+## Files
 - README.md
 - .gitignore
 - app.txt
+- feature.txt
 
-This repository demonstrates Git branching, commits, pull requests, merging, and tagging.
+## Learning Outcome
+- Learned Git branching
+- Learned Pull Requests
+- Learned Git tags
+- Learned Git workflow
